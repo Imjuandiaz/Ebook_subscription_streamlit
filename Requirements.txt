@@ -1,6 +1,5 @@
 
 # requirements.txt for Ebook Subscription Streamlit App
-streamlit
 pandas
 pycaret
 scikit-learn
