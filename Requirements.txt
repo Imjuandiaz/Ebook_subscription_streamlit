@@ -1,5 +1,4 @@
-
-# requirements.txt for Ebook Subscription Streamlit App
+streamlit
 pandas
-pycaret
+pycaret==3.0.4
 scikit-learn
